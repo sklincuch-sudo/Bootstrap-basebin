@@ -1,5 +1,5 @@
 #include <Foundation/Foundation.h>
-#include <roothide.h>
+#include <rootlike.h>
 #include <dlfcn.h>
 #include "common.h"
 #include "fishhook.h"
